@@ -20,7 +20,6 @@ function main() {
 //     const lis = document.querySelectorAll('li');
 //     for (let li of lis) {
 //         console.log(li);
-    }
 
             //  #4
     const linkUpdate = document.querySelector('.link');
